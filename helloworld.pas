@@ -1,1 +1,5 @@
-5082c6b8-2e6b-11e5-9284-b827eb9e62be
+program HelloWorld;
+
+  begin
+	writeln('I grew older but I never grew up becouse of your friendship.');
+  end.
